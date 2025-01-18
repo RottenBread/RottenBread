@@ -1,9 +1,8 @@
 # 👋 Junhyeok Moon (RottenBread)
 - 📚 **Team Flo General Manager** (2017 ~ 2018)<br>
 - 📚 **DDHS Coding Club** (2019 ~ 2021)<br>
-- 📚 **BIGTENT Project General Manager** (2021 ~)<br>
-- 📚 **DSU Artificial Intelligence** (2022 ~)<br>
-- 📚 **Team Citizen Member** (2023 ~)<br>
+- 📚 **BIGTENT Studio General Manager** (2021 ~)<br>
+- 📚 **DSU Artificial Intelligence** (2022 ~ 2023)<br>
 - 🏆 **Programming Competition Busan** (2016, 1st)<br>
 - 🖥️ **Exhibited "Let's Play, Maker" in Bexco** (2019)<br>
 
